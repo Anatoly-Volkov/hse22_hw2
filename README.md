@@ -1,5 +1,10 @@
 Ссылка на colab с подготовкой данных 
+
 https://colab.research.google.com/drive/1d-S5xujCkLDdw2wZsf3fWhNjZLTolWoG?usp=sharing
+
+Ссылка на colab с аннотацией генома
+
+https://colab.research.google.com/drive/1mJWRoOtanso6mTulb6c7PuvXuI7F0Qax?usp=sharing
 
 Всего было предсказано 3566 генов
 
